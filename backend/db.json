@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta",
-      "price": 5.89
+      "name": "Caneta Preta",
+      "price": "5.37"
     },
     {
       "id": 2,
@@ -12,13 +12,23 @@
     },
     {
       "id": 3,
-      "name": "Xiaomi 9 lite",
-      "price": 1500
+      "name": "Xiaomi 9 lite 2020",
+      "price": "2500"
     },
     {
       "name": "Lápis de Cor",
       "price": "10.50",
       "id": 4
+    },
+    {
+      "name": "Borracha Mercur",
+      "price": "3.44",
+      "id": 5
+    },
+    {
+      "name": "HD externo Seagate",
+      "price": "250.00",
+      "id": 6
     }
   ]
 }
